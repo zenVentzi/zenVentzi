@@ -1,3 +1,5 @@
+Tech: Typescript, React, Node, Graphql, Next, Nest, Git, Bash, AWS, Linux, Docker, PostgreSQL, MongoDB, Python, Golang, Neovim, Lua.
+
 Talk is cheap, show me [the-code](https://github.com/zenVentzi?tab=repositories). See my technical and team [views](https://www.zenventzi.com/blog/tech-software-engineering-views). StackOverflow [questions](https://stackoverflow.com/users/4132182/zenventzi?tab=questions&sort=votes) and [answers](https://stackoverflow.com/users/4132182/zenventzi?tab=answers&sort=votes). If you value:
 - Devs that genuinely love their craft who actually **think** before writing code
 - Devs that go the extra mile because it's who they are. Because it's painful not to
